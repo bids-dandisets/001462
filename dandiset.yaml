@@ -14,7 +14,13 @@ assetsSummary:
   schemaKey: AssetsSummary
 citation: 1R01NS138075-01 (2025). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001462/draft
 contributor:
-- {}
+- awardNumber: 1R01NS138075-01
+  email: Takashi.Kitamura@UTSouthwestern.edu
+  name: Kitamura, Takashi
+  roleName:
+  - dcite:Supervision
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2025-05-30T14:44:24.765385+00:00'
 description: Neural circuit mechanisms for a mirror-induced self-directed behavior.
   in vivo calcium imaging from ACC neurons and animal behavior data during mirror
