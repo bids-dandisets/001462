@@ -7,19 +7,23 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
+acknowledgement: 1R01NS138075-01
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
 citation: 1R01NS138075-01 (2025). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001462/draft
-contributor: []
+contributor:
+- {}
 dateCreated: '2025-05-30T14:44:24.765385+00:00'
-description: Neural circuit mechanisms for a mirror-induced self-directed behavior
-  (1R01NS138075-01). in vivo calcium imaging from ACC neurons and animal behavior
-  data during mirror exposure for 5 days.
+description: Neural circuit mechanisms for a mirror-induced self-directed behavior.
+  in vivo calcium imaging from ACC neurons and animal behavior data during mirror
+  exposure for 5 days.
 ethicsApproval: []
 id: DANDI:001462/draft
 identifier: DANDI:001462
+keywords:
+- in vivo calcium imaging, ACC
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
@@ -29,6 +33,8 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
+studyTarget:
+- 'Neural circuit mechanisms for a mirror-induced self-directed behavior. '
 url: https://dandiarchive.org/dandiset/001462/draft
 version: draft
 wasGeneratedBy: []
