@@ -9,9 +9,30 @@ access:
   status: dandi:OpenAccess
 acknowledgement: 1R01NS138075-01
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: microscopy approach; cell population imaging
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: two-photon microscopy technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 79196290096
+  numberOfFiles: 7
+  numberOfSubjects: 2
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - OpticalChannel
+  - ImagingPlane
+  - TwoPhotonSeries
 citation: 1R01NS138075-01 (2025). (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001462/draft
 contributor:
 - awardNumber: 1R01NS138075-01
