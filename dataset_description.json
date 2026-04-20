@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Neural circuit mechanisms for a mirror-induced self-directed behavior. in vivo calcium imaging from ACC neurons and animal behavior data during mirror exposure for 5 days.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Kitamura, Takashi"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
